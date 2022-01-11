@@ -8,7 +8,7 @@
 ---
 ## self.info[1]
 * This is my algo-trading **github** account. 
-  * All trading related `< repositories >` goes here. 
+  * All trading related `< repos >` goes here. 
   * Most repositories are private with the reason for that being obvious. 
 ## #WAGMI 🤝
 > " Soon may the Tendieman come to take our rockets in to the sun. One day when the trading is done we'll take our gains and go. "   
